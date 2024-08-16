@@ -13,7 +13,7 @@ const cede = () => {
     <div>
       <h1>Cede!!!</h1>
       <div>
-        <p>Hiciste clic {count}</p>
+        <p>Hiciste clic {count}</p> 
         <Button onClick={() => setCount(count + 1)} style={{ margin: "10px" }}>
           Comprar
         </Button>
